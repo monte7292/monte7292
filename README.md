@@ -1,4 +1,4 @@
-## :hammer: Funcionalidades del proyecto  
+## :hammer: ¡Sobre Mi! 
 
 📫 **Cómo contactarme**:  
 - `Discord`: [https://discord.gg/VGYp97suen](https://discord.gg/VGYp97suen)  
