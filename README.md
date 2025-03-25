@@ -5,7 +5,7 @@
 
 > [!WARNING]  
 > ### 👷 Actualmente trabajando en:  
-> - ``[Niveles.xyz](https://Niveles.xyz)``: Plataforma en desarrollo para gestionar sistemas de niveles y recompensas en servidores de Discord. Permite personalizar la experiencia, visualizar barras de progreso, configurar rangos y sincronizar con bots.  
+> - ``Niveles.xyz``: Plataforma en desarrollo para gestionar sistemas de niveles y recompensas en servidores de Discord. Permite personalizar la experiencia, visualizar barras de progreso, configurar rangos y sincronizar con bots.  
 > - ``Protect FiveM``: Una web en desarrollo que ofrece herramientas y guías para proteger tu servidor de FiveM contra ataques y exploits. Incluirá configuraciones de seguridad, optimización del servidor y prevención de cheats.  
 
 
