@@ -1,5 +1,5 @@
 > [!NOTE]
-> <h1 align="left">Sobre Mi:</h1>
+> ### Sobre Mi:
 > <p align="left">Hola, me llamo monte7292, soy estudiante de Desarrollo de Aplicaciones Web (DAW) y tengo más de dos años de experiencia creando bots para Discord, páginas webs y ofreciendo soporte técnico.</p>
 
 
@@ -8,8 +8,10 @@
 > - ``[Niveles.xyz](https://Niveles.xyz)``: Plataforma en desarrollo para gestionar sistemas de niveles y recompensas en servidores de Discord. Permite personalizar la experiencia, visualizar barras de progreso, configurar rangos y sincronizar con bots.  
 > - ``Protect FiveM``: Una web en desarrollo que ofrece herramientas y guías para proteger tu servidor de FiveM contra ataques y exploits. Incluirá configuraciones de seguridad, optimización del servidor y prevención de cheats.  
 
+
+
 > [!IMPORTANT]
-> <h2 align="left">🚀Habilidades:</h2>
+> ### 🚀Habilidades:
 > <div align="left">
 >   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 >   <img width="12" />
