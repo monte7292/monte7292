@@ -1,7 +1,6 @@
 > [!NOTE]
 > ### Sobre Mi:
 > <p align="left">Hola, me llamo monte7292, soy estudiante de Desarrollo de Aplicaciones Web (DAW) y tengo más de dos años de experiencia creando bots para Discord, páginas webs y ofreciendo soporte técnico.</p>
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=monte7292&show_icons=true&theme=radical)
 
 
 > [!WARNING]  
@@ -33,4 +32,4 @@
 >   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 >   <img width="12" />
 > </div>
-
+![monte](https://github-readme-stats.vercel.app/api?username=monte7292&show_icons=true&theme=radical)
