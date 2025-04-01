@@ -8,18 +8,6 @@
 > - ``Niveles.xyz``: Plataforma en desarrollo para gestionar sistemas de niveles y recompensas en servidores de Discord. Permite personalizar la experiencia, visualizar barras de progreso, configurar rangos y sincronizar con bots.  
 > - ``Protect FiveM``: Una web en espera que ofrecerá herramientas y guías para proteger tu servidor de FiveM contra ataques y exploits. Incluirá configuraciones de seguridad, optimización del servidor y prevención de cheats.  
 
-
-
-> [!NOTE]
-> ### Sobre Mi:
-> <p align="left">Hola, me llamo monte7292, soy estudiante de Desarrollo de Aplicaciones Web (DAW) y tengo más de dos años de experiencia creando bots para Discord, páginas webs y ofreciendo soporte técnico.</p>
-
-
-> [!WARNING]  
-> ### 👷 Actualmente trabajando en:  
-> - ``Niveles.xyz``: Plataforma en desarrollo para gestionar sistemas de niveles y recompensas en servidores de Discord. Permite personalizar la experiencia, visualizar barras de progreso, configurar rangos y sincronizar con bots.  
-> - ``Protect FiveM``: Una web en espera que ofrecerá herramientas y guías para proteger tu servidor de FiveM contra ataques y exploits. Incluirá configuraciones de seguridad, optimización del servidor y prevención de cheats.  
-
 > [!IMPORTANT]
 > ### 🚀 Habilidades:
 > <div align="left">
@@ -40,6 +28,6 @@
 >   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 >   <img width="12" />
 >   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
->   <img height="200" src="https://github-readme-stats.vercel.app/api?username=monte7292&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Streak Stats" />
->   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monte7292&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+>   <img height="100" src="https://github-readme-stats.vercel.app/api?username=monte7292&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Streak Stats" />
+>   <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monte7292&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 > </div>
