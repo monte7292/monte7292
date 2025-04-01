@@ -44,6 +44,6 @@
 > 
 > ### 📊 Estadísticas de GitHub:
 > <div align="center">
->   <img src="https://github-readme-streak-stats.herokuapp.com/?user=monte7292&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+>   <img src="https://github-readme-stats.vercel.app/api?username=monte7292&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Streak Stats" />
 >   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monte7292&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 > </div>
