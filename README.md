@@ -1,6 +1,7 @@
 > [!NOTE]
 > ### Sobre Mi:
 > <p align="left">Hola, me llamo monte7292, soy estudiante de Desarrollo de Aplicaciones Web (DAW) y tengo más de dos años de experiencia creando bots para Discord, páginas webs y ofreciendo soporte técnico.</p>
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=monte7292&show_icons=true&theme=radical)
 
 
 > [!WARNING]  
