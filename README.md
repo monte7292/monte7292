@@ -10,8 +10,18 @@
 
 
 
+> [!NOTE]
+> ### Sobre Mi:
+> <p align="left">Hola, me llamo monte7292, soy estudiante de Desarrollo de Aplicaciones Web (DAW) y tengo más de dos años de experiencia creando bots para Discord, páginas webs y ofreciendo soporte técnico.</p>
+
+
+> [!WARNING]  
+> ### 👷 Actualmente trabajando en:  
+> - ``Niveles.xyz``: Plataforma en desarrollo para gestionar sistemas de niveles y recompensas en servidores de Discord. Permite personalizar la experiencia, visualizar barras de progreso, configurar rangos y sincronizar con bots.  
+> - ``Protect FiveM``: Una web en espera que ofrecerá herramientas y guías para proteger tu servidor de FiveM contra ataques y exploits. Incluirá configuraciones de seguridad, optimización del servidor y prevención de cheats.  
+
 > [!IMPORTANT]
-> ### 🚀Habilidades:
+> ### 🚀 Habilidades:
 > <div align="left">
 >   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 >   <img width="12" />
@@ -30,6 +40,10 @@
 >   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 >   <img width="12" />
 >   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
->   <img width="12" />
 > </div>
-![monte7292's Streak](https://github-readme-streak-stats.herokuapp.com/?user=monte7292&theme=tokyonight&hide_border=true)
+> 
+> ### 📊 Estadísticas de GitHub:
+> <div align="center">
+>   <img src="https://github-readme-streak-stats.herokuapp.com/?user=monte7292&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+>   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monte7292&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+> </div>
