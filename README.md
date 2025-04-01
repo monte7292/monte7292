@@ -40,6 +40,7 @@
 >   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 >   <img width="12" />
 >   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
->   <img src="https://github-readme-stats.vercel.app/api?username=monte7292&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Streak Stats" />
->   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monte7292&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+>   <img src="https://github-readme-stats.vercel.app/api?username=monte7292&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+>   <img width="12" />
+>   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monte7292&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="165" alt="Top Languages" />
 > </div>
