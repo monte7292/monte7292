@@ -1,6 +1,6 @@
 > [!NOTE]
 > ### Sobre Mi:
-> <p align="left">Hola, me llamo monte7292, soy estudiante de Desarrollo de Aplicaciones Web (DAW) y tengo más de dos años de experiencia creando bots para Discord, páginas webs y ofreciendo soporte técnico.</p>
+> <p align="left">Estudiante de Desarrollo de Aplicaciones Web. Experiencia con Java, JavaScript, TypeScript, SQL, CSS, HTML, Python, Spring y Angular. Aprendizaje rápido, disciplina y buenas habilidades para el trabajo en equipo. </p>
 
 
 > [!WARNING]  
