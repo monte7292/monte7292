@@ -21,7 +21,6 @@
 > <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
 > <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
 > <img src="https://skillicons.dev/icons?i=mysql" height="40" />
-> <img src="https://skillicons.dev/icons?i=mariadb" height="40" />
 > <img src="https://skillicons.dev/icons?i=css" height="40" />
 > <img src="https://skillicons.dev/icons?i=docker" height="40" />
 > <img src="https://skillicons.dev/icons?i=react" height="40" />
