@@ -2,13 +2,6 @@
 > ### Sobre Mi:
 > <p align="left">Estudiante de Desarrollo de Aplicaciones Web. Experiencia con Java, JavaScript, TypeScript, SQL, CSS, HTML, Python, Spring y Angular. Aprendizaje rápido, disciplina y buenas habilidades para el trabajo en equipo. </p>
 
-
-> [!WARNING]  
-> ### 👷 Trabajando en:      
-> - ``EncuentraTrabajo``: Plataforma en desarrollo para gestionar ofertas de trabajo tanto como usuarios para que puedan enviar sus aplicaciones con sus CV a empresas o que empresas puedan dar su visibilidad a nuevos empleados.
-> - ``GoGaming``: Plataforma en desarrollo para gestionar sistema de pagos sobre productos de ratones/teclados/mangas ect... Todo el sistema de pago funcionará con Stripe.
-> - ``Niveles.xyz``: Plataforma para gestionar sistemas de niveles y recompensas en servidores de Discord. Permite personalizar la experiencia, visualizar barras de progreso, configurar rangos y sincronizar con bots
-
 > [!IMPORTANT]
 > ### 🚀 Habilidades:
 > <div align="left">
